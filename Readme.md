@@ -111,4 +111,4 @@ Auction app is a web application for an antique items seller. The application wi
 
 ## Preview
 
-<img src="https://github.com/zharrane/Task-SC-Readme/img/auction-prev.png" width="400" height="750"/>
+<img src="https://github.com/zharrane/Task-SC-Readme/blob/master/img/auction-prev.png" width="400" height="750"/>
