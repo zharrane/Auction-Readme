@@ -38,7 +38,6 @@ Auction app is a web application for an antique items seller. The application wi
    <tr>
    <td>Back-End Server</td><td><a href='http://194.62.1.252:5000/api'>My VPS Link</a> !Recommended</td> </tr> 
    </tr> 
-    <tr>  <td>Netlify Deployment </td>  <td><a href='https://scopic-task.netlify.app/'>Netlify Link</a> !Not Recommended</td>  </tr>  
    <tr>  <td>AWS Deployment</td>  <td><a href='http://scopic-task.s3-website-eu-west-1.amazonaws.com/'>AWS Link</a> !Recommended</td>  </tr>  
     </tbody>
       </table>
