@@ -44,7 +44,6 @@ Auction app is a web application for an antique items seller. The application wi
 
 ## Features
 
-- Implementation based on design patterns.
 - Responsive Layout following UI/UX best practices.
 - Bid Now functionality.
 - Auto-bidding functionality.
